@@ -11,6 +11,7 @@ On browser, check json-server main page(http://localhost:3000 ) for our json-ser
 Click “/posts”, check our todos data. (http://localhost:3000/posts)
 
 Try it:
+
 fetch('http://localhost:3000/posts/1')
   .then(response => response.json())
   .then(json => console.log(json))

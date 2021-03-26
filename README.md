@@ -1,6 +1,8 @@
 # json-server
 
 ### Creat your own json-server
+
+> **Note**: 
 1st. Clone this repository.
 
 2nd. Under this repo, run: npm install

@@ -13,7 +13,7 @@ Check the server port (default port should be 3000).
 
 On browser, check json-server main page(http://localhost:3000 ) for our json-server.
 
-Click “/posts”, check our todos data. (http://localhost:3000/posts)
+Click “/posts”, check our posts data. (http://localhost:3000/posts)
 
 # Try it:
 

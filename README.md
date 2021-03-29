@@ -6,8 +6,7 @@
 
 > **2nd**: Under this repo, run: npm install
 
-> **3rd**: Start this json-server, run: 
-#### npm run json-server
+> **3rd**: Start this json-server, run: npm run json-server
 
 ### Run your json-server
 Check the server port (default port should be 3000).

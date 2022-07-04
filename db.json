@@ -1,20 +1,20 @@
 {
 	"blogs": [
 		{
-			"title": "My new website",
-			"body": "lorem ipsum...",
+			"title": "Component-Based",
+			"body": "Build encapsulated components that manage their own state, then compose them to make complex UIs.",
 			"author": "mario",
 			"id": 1
 		},
 		{
-			"title": "Welcome party!",
-			"body": "lorem ipsum...",
+			"title": "Learn Once, Write Anywhere",
+			"body": "React can also render on the server using Node and power mobile apps using React Native.",
 			"author": "yoshi",
 			"id": 2
 		},
 		{
-			"title": "Web dev top tips",
-			"body": "lorem ipsum...",
+			"title": "Declarative",
+			"body": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
 			"author": "mario",
 			"id": 3
 		}

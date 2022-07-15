@@ -8,7 +8,7 @@
 
 > **3rd**: Start this json-server, run: npm start
 
-### Run your json-server
+### Run your json-server: npm start
 Check the server port (default port should be 4232).
 
 On browser, check json-server main page(http://localhost:4232 ) for our json-server.

@@ -9,11 +9,11 @@
 > **3rd**: Start this json-server, run: npm start
 
 ### Run your json-server
-Check the server port (default port should be 3000).
+Check the server port (default port should be 4232).
 
-On browser, check json-server main page(http://localhost:3000 ) for our json-server.
+On browser, check json-server main page(http://localhost:4232 ) for our json-server.
 
-Click “/posts”, check our posts data. (http://localhost:3000/posts)
+Click “/posts”, check our posts data. (http://localhost:4232/posts)
 
 # Try it:
 

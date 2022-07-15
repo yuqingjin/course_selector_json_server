@@ -18,6 +18,6 @@ Click “/posts”, check our posts data. (http://localhost:3000/posts)
 # Try it:
 
 ```javascript
-fetch('http://localhost:3000/posts/1')
+fetch('http://localhost:4232/posts/1')
   .then(response => response.json())
   .then(json => console.log(json))
